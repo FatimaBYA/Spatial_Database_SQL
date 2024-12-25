@@ -31,4 +31,3 @@ This practical work focuses on **Spatial SQL**, a specialized extension of SQL u
 **Conclusion**  
 This TP provides a solid foundation in Spatial SQL, demonstrating how to manage spatial data effectively and use it for complex geospatial analyses. By integrating theory with practical exercises, students gain essential skills for working with spatial databases in GIS applications.  
 
-**End of Practical Work Overview**  

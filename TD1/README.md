@@ -1,10 +1,10 @@
 # Spatial Database  
  
-**TD-1 Installation of PostGIS and Creation of a Spatial Database**
+**TD-1 Installation of PostGIS and creation of a spatial database**
 
 ---
 
-### 1. Download and Install PostgreSQL
+### 1. Download and install PostgreSQL
 - Access the [PostgreSQL download page](https://www.postgresql.org/download/) to download the latest version of PostgreSQL suitable for your operating system. PostgreSQL is compatible with Linux, macOS, Windows, BSD, and Solaris.
 - Follow the installation guide for your operating system:
   - Windows

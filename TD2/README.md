@@ -1,7 +1,7 @@
 
 # Spatial Database
 
-## TD-2: Creating Tables with Spatial Columns
+## TD-2: Creating tables with spatial columns
 
 
 ### 1. Create a Spatial Table (Points)

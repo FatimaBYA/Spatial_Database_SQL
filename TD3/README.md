@@ -1,6 +1,6 @@
 # Spatial Database
 
-**TD-3 SQL Spatial Functions**
+**TD-3 SQL spatial functions**
 
 ### Exercise Objective
 How many parcels are located within 1 km of a fire point?  

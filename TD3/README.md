@@ -7,7 +7,7 @@ How many parcels are located within 1 km of a fire point?
 To explore the `st_xxxx` functions, please refer to the official PostGIS documentation: [PostGIS Documentation](https://postgis.net/docs/reference.html).
 
 ### Context
-In this exercise, you will use PostGIS to determine how many parcels in Florida are within a 1 km radius of a fire point, which is defined as the centroid of a given parcel. You will use the shapefile of Florida parcels available at this link.
+In this exercise, you will use PostGIS to determine how many parcels in Florida are within a 1 km radius of a fire point, which is defined as the centroid of a given parcel. You will use the shapefile of Florida parcels available at this link: [Florida Parcels Shapefile](https://maps.leegov.com/datasets/80708a2f5f56426f94c8be97c182176b/about)
 
 ### Exercise Steps
 
